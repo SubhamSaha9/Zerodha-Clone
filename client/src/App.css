@@ -1,0 +1,50 @@
+.nav-link {
+    margin-left: 40px;
+}
+
+#supportHero {
+    background-color: rgb(56, 126, 209);
+    color: white;
+}
+
+#features{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 150px;
+    padding: 0 48px 48px 48px;
+}
+
+#supportHero a {
+    color: white;
+}
+
+#supportWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+    padding-top: 5rem !important;
+}
+
+#supportHero input {
+    padding: 20px 50px;
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.nav-tags{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-tags p{
+    font-weight: 600;
+}
+
+.nav-tags a{
+    text-decoration: none;
+    margin-bottom: 0.8rem;
+    color: rgb(132, 132, 133);
+    font-weight: 500;
+}
