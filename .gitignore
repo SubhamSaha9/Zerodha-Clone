@@ -2,3 +2,7 @@ client/node_modules
 client/.env
 server/node_modules
 server/.env
+server/Dockerfile
+server/handler.js
+server/serverless.yml
+server/.serverless

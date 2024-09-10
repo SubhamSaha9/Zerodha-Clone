@@ -13,7 +13,7 @@ const authRoute = require("./routes/authRoute");
 
 connect();
 app.use(cors({
-    origin: "http://localhost:3458",
+    origin: process.env.CORS_ORIGIN,
     credentials: true
 }));
 app.use(bodyParser.json());
