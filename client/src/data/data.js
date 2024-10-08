@@ -223,4 +223,10 @@ export const data = [
     image: "../media/images/shareus.png",
     desc: "ShareUs is a versatile photos and video sharing platform that enables users to upload, share, and manage multimedia content with ease.",
   },
+  {
+    link: "https://cloud-ide-murex.vercel.app",
+    name: "Code Fest",
+    image: "../media/images/CodeFest.png",
+    desc: "A cloud IDE where user can write and execute different programming languages.",
+  },
 ];
